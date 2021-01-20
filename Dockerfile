@@ -3,7 +3,6 @@ USER root
 WORKDIR /home/jovyan/
 COPY requirements.txt /home/jovyan/
 COPY hello.txt /home/jovyan/
-RUN ls
 
 EXPOSE 80
 EXPOSE 8888
