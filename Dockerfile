@@ -7,4 +7,4 @@ EXPOSE 80
 EXPOSE 8888
 
 RUN pip install -r /home/jovyan/requirements.txt
-RUN jupyter notebook --allow-root
+CMD jupyter notebook --allow-root
