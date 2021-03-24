@@ -1,0 +1,32 @@
+﻿name,type,stars
+pandas,analysis,29000
+numpy,analysis,16000
+pyspark,analysis,28000
+annoy,recommender,8200
+implicit,recommender,2300
+surprise,recommender,4800
+spotlight,recommender,2400
+django,web api,56000
+flask,web api,54000
+tornado,web api,20000
+bokeh,visualization,14900
+plotly,visualization,20000
+seaborn,visualization,8200
+dash,visualization,14000
+matplotlib,visualization,13300
+scipy,statistics,8000
+statsmodels,statistics,6000
+gym,machine learning,23800
+scikit-learn,machine learning,45000
+xgboost,machine learning,20000
+tensorflow,deep learning,155000
+pytorch,deep learning,49000
+keras,deep learning,50000
+geopy,geo,3000
+geojson,geo,1000
+scikit-image,image,4200
+nltk,nlp,9700
+gensim,nlp,11800
+spacy,nlp,20000
+scrapy,web crawling,40000
+pyspider,web crawling,15000
